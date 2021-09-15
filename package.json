@@ -1,0 +1,22 @@
+{
+  "name": "discordjswyr",
+  "version": "1.0.0",
+  "description": "A would you rather bot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarjanSimic/discordjswyr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarjanSimic/discordjswyr/issues"
+  },
+  "homepage": "https://github.com/MarjanSimic/discordjswyr#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
